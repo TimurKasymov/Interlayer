@@ -1,0 +1,5 @@
+{
+  "server_ports": [23588],
+  "client_ports": [23589],
+  "local_port": 23592
+}
